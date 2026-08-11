@@ -1,0 +1,11 @@
+Game things
+Program enemy Ai
+Program a progression system
+Program the intro scene (whether that be a Blender animation or Unity cut-scene)
+Program input prompts in the intro scene
+Add gun sounds to starting gun
+Add enemy death and firing SFXs
+Add more music when player is in level
+Create 4 levels (for a prolog)
+
+lore
