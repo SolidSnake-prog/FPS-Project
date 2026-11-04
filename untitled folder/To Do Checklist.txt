@@ -1,11 +1,34 @@
 Game things
-Program enemy Ai
+
 Program a progression system
 Program the intro scene (whether that be a Blender animation or Unity cut-scene)
 Program input prompts in the intro scene
 Add gun sounds to starting gun
 Add enemy death and firing SFXs
-Add more music when player is in level
 Create 4 levels (for a prolog)
 
-lore
+lore?
+
+
+
+
+
+Random Ideas:
+
+Stealth mechanics!!
+
+Had an idea where there could be some cool stealth mechanics as the games Ai seem to be pretty well suited for it and could also make use of the players movement more as the player can crouch. There could be like a visibility system within the Ai that is a bool that checks whether the player is hiding or not visible (like in vents or something)
+
+
+Glory kills mechanics!!
+
+I thought this could be really cool to do where the player can do cool glory kills but I'm not sure how to properly execute it. An idea of how to do this is where the Ai has reached a low enough health to be stunned and that then will enable a prompt to do a glory kill or just a basic melee mechanic that will be something like, if the player is within melee kill range, lerp the position of the player to the kill position and start animation.
+
+Ammo mechanics!!
+
+Since the game currently has unlimited ammunition given to the player, I wonder how I can affect the player's choices depending on the amount of ammo given whether I somewhat starve the player of ammunition and make them think more about how they shoot in different levels and use melee more or if I just make it really arcady and like give the player large amounts of ammunition so they can spray n' pray. I think though if I want to compliment the stealth aspects of Brutalist, I should give less ammunition so the player will then avoid large gun fights with the Ai if possible
+
+
+Health and Damage reflection
+
+I think that the damage in the game is pretty brutal which I think if done right and used well, can make the game fun and challenging making goals, completing levels and unlocking secretes really rewarding but also I should take into consideration that if the player can die really quickly, the player will want to move out of the way of danger as fast as possible. So knowing this, slow, tactical like movement is probably not the best idea or best movement for Brutalist. A complimentary movement system should benefit and add to the gun play, health systems and overall style of gameplay.
