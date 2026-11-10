@@ -1,0 +1,27 @@
+Sounds needed currently:
+
+- robot gurgle noises
+- level ambient
+- ventilation fan whirring
+- ARP9 gunshot (don't worry about making different variations, I can code pitch change randomiser for each shot)
+
+- Winchester gunshot
+- revolver gunshot
+- explosion SFX
+- button press sound
+- footsteps on concrete (I will use unity's sound ambient volume to adjust echo and reverb based on where the player is)
+
+- reload SFX, inspect / unlocked inspect SFX
+- enemy hit SFX (so this is when the player successfully hits an enemy, a little *tick* will play and I'll do some UI animation to show the player hit the enemy)
+
+- vent crawling SFX
+- Enter and exiting cabinet SFX
+
+
+Message to Fannaniva
+
+Don't feel like you have to do all of these. Probably the most important ones I would like you to do is around the gun SFXs. So reloads, inspect, equipping, putting away and also for the Winchester, a bolt cycle SFX. Enemy hit SFX would be nice too, same with player footsteps which I can reuse for the enemy Ai model later and change the sound variety of them.
+
+
+
+
